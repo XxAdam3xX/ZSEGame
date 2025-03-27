@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"Prototype 0.1",
+  "%Name":"Prototype 0.2",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -32,19 +32,16 @@
   "MetaData":{
     "IDEVersion":"2024.11.0.179",
   },
-  "name":"Prototype 0.1",
+  "name":"Prototype 0.2",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
-<<<<<<< Updated upstream
-    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
-=======
->>>>>>> Stashed changes
-    {"id":{"name":"Character","path":"objects/Character/Character.yy",},},
-    {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
+    {"id":{"name":"obj_background","path":"objects/obj_background/obj_background.yy",},},
+    {"id":{"name":"obj_character","path":"objects/obj_character/obj_character.yy",},},
+    {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"character_sprite","path":"sprites/character_sprite/character_sprite.yy",},},
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
+    {"id":{"name":"spr_character","path":"sprites/spr_character/spr_character.yy",},},
+    {"id":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

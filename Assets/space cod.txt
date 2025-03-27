@@ -1,0 +1,7 @@
+// Sprawdzamy, czy postać jest na ziemi
+if (place_meeting(x, y + 1, obj_ground)) {
+    // Sprawdzenie, czy naciśnięto spację i postać nie skacze
+    if (keyboard_check_pressed(vk_space)) {
+        vspeed = -10; // Siła skoku (możesz dostosować wartość)
+    }
+}

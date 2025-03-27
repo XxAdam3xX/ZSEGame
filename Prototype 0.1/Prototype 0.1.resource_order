@@ -18,7 +18,10 @@
   ],
   "ResourceOrderSettings":[
     {"name":"Font1","order":2,"path":"fonts/Font1/Font1.yy",},
+<<<<<<< Updated upstream
     {"name":"Note1","order":3,"path":"notes/Note1/Note1.yy",},
+=======
+>>>>>>> Stashed changes
     {"name":"obj_ground","order":1,"path":"objects/obj_ground/obj_ground.yy",},
     {"name":"character_sprite","order":1,"path":"sprites/character_sprite/character_sprite.yy",},
     {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
