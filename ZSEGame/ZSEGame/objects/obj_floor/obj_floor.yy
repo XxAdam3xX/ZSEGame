@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_camera",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_floor",
+  "eventList":[],
   "managed":true,
-  "name":"obj_camera",
+  "name":"obj_floor",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -21,7 +17,7 @@
   "physicsGroup":1,
   "physicsKinematic":false,
   "physicsLinearDamping":0.1,
-  "physicsObject":false,
+  "physicsObject":true,
   "physicsRestitution":0.1,
   "physicsSensor":false,
   "physicsShape":1,
@@ -31,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_floor",
+    "path":"sprites/spr_floor/spr_floor.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
