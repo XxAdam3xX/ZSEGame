@@ -32,4 +32,8 @@ i ten projekt podlega pod [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 - Dynamiczna kamera
 - Wślizg dla gracza (strzałka w dół)
 
-## [0.2.0] - 2025-04-XX
+## [0.2.0] - 2025-03-27
+
+## [0.1.0] - 2025-03-21
+
+_Initial release._
